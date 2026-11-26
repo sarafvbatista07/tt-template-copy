@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Bin7decoder
 
 ## How to test
 
-Explain how to use your project
+colocar em input numeros ate 15
 
 ## External hardware
 
